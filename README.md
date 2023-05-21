@@ -57,6 +57,20 @@
 
 <br>
 
+## Pagespeed Insights Score:
+  
+- ||
+  | :-----: |
+  |  <b>Overall score 99% for Both Mobile & Desktop</b><br>(Below score is for mobile devices) |
+  | |
+  | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
+  | |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-insure-landing-page/ineiixnem7?form_factor=mobile) to get live score |
+  ||
+
+<br>
+
+
 
 ## The Challenge
 
