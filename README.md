@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
+  | Solution URL: | [INSURE LANDING PAGE 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://www.frontendmentor.io/solutions/insure-landing-page-accessible-bem-vanilla-css3-es6-r4p2qashVY) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/insure-landing-page/](https://0xabdulkhalid.github.io/insure-landing-page/) |
   |||
 
